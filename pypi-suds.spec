@@ -7,7 +7,7 @@
 #
 Name     : pypi-suds
 Version  : 1.2.0
-Release  : 6
+Release  : 7
 URL      : https://files.pythonhosted.org/packages/3e/a1/c3783be8de318678c822d6edf9855729c528ba06ac9004398c225ecf2dbd/suds-1.2.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/3e/a1/c3783be8de318678c822d6edf9855729c528ba06ac9004398c225ecf2dbd/suds-1.2.0.tar.gz
 Summary  : Lightweight SOAP client (community fork)
